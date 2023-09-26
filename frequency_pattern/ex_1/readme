@@ -1,0 +1,5 @@
+# Given two strings, write a function to determine if the second string is anagram of the first one.
+
+# validAnagram('aza', 'zaa') returns true;
+
+# validAnagram('adsa','ssda') return false;

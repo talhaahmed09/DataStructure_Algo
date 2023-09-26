@@ -1,0 +1,14 @@
+#   Multiple Pointer
+
+Creating pointer or values that correspond to an index or position and move towards the beginning, end or middle based on a certain condition very efficient for solving problems with minimal space and time complexity
+
+
+# Psuedo Code
+- Create a function that takes a sorted integer array as input.
+
+- The function should find first pair whose sum is equal to zero.
+
+- Return an array that contains both values if their sum is equal to zero.
+
+- Return undefined if a pair does not exist
+

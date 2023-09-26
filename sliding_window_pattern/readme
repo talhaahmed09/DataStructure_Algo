@@ -1,0 +1,26 @@
+
+# Problem solving
+
+# Frequency pattern
+This pattern uses objects and sets to collect values/frequencies 
+
+# Use to avoid n^2 (nested loop) operations on strings/arrays
+
+# example: 
+write a function, accepts 2 arrays, return true if each value in one array has its squared value in the other, the frequency(occurance) should be same for both.
+
+# [1,2,3] => [4,1,9] true
+# [1,2,1] => [1,4,4] false 
+
+
+
+This pattern involves creating a window which can either be an array or number from one position to another.
+
+Depending on the condition, the window either increases or closes (and a new window is created).
+
+Very useful for keeping track of a subset of data in an array/string.
+
+# Find the maximum sum of n elements in an array.
+
+[1,2,2,4,5,8,9,6,1,3,7] n=3
+
