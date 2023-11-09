@@ -1,6 +1,5 @@
 // Merge function from earlier
 function merge(arr1, arr2) {
-  console.log({ arr1, arr2 });
   let results = [];
   let i = 0;
   let j = 0;
